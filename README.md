@@ -20,5 +20,5 @@ GatherUp is an event discovery and booking mobile application built using Flutte
 - Firebase Authentication
 - Firebase Storage
 
-**Author:** Pranav Krishna
+**Author:** Nivedh S
 ## Getting Started
